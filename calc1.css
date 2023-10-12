@@ -1,0 +1,35 @@
+.container{
+    width: 50%;
+    min-width: 450px;
+    position: absolute;
+    margin-top: 10%;
+    background-color: aqua;
+    min-height: 400px;
+    margin-left: 25%;
+    border-radius: 15px;
+}
+.func{
+    display: flex;
+    margin-left: 0%;
+
+    
+    
+}
+.butto{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 0%;
+    margin-right: 4%;
+
+
+}
+.numb{
+    display: flex;
+    margin-left: 20%;
+    flex-direction: column;
+    margin-right: 30%;
+    width: 30%;
+}
+.disp{
+    margin-left: 20%;
+}
